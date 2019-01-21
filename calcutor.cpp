@@ -29,7 +29,10 @@ in main () {
  cout<<"enter two numbers "<<endl ; 
  cin>>a ;
  cin>>b ;
- cout<<"the sum is :"<<sum(a,b) << endl ;     
+ cout<<"the sum is :"<<sum(a,b) << endl ;
+ cout<<"the division is :"<<div(a,b) << endl ;
+ cout<<"the multiplication is :"<<mul(a,b) << endl ;
+ cout<<a<<"% "<<b<<":"<<sum(a,b) << endl ;     
 return(0) ; 
 
 } 
