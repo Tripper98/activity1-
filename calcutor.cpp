@@ -10,6 +10,11 @@ double mul(double a , double b) {
 	return(a*b) ; 
 }
 
+double div(double a , double b) {
+
+    if (b==0) cout<<"erreur " ;
+ 	return(a/b) ; 
+}
 
 
 
