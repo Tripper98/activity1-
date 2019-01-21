@@ -16,6 +16,10 @@ double div(double a , double b) {
  	return(a/b) ; 
 }
 
+double mod(double a , double b) {
+
+	return(a%b) ; 
+}
 
 
 in main () {
